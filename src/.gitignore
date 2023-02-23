@@ -4,7 +4,7 @@ dist/
 build/
 .idea
 # ALL env files
-.env
+
 .env.local
 .env.*.local
 
