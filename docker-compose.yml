@@ -8,3 +8,5 @@ services:
     image: nodejs
     container_name: airdrop 
     restart: unless-stopped
+    expose:
+      - 8182
